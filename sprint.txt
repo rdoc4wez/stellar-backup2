@@ -1,2 +1,3 @@
 # Quick Thoughts
 Update language packs
+Add test to confirm proper deletion of resources
